@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+header{
+	text-align: center;
+}
+
 header > h1{
 	margin: auto;
 	padding: 2rem;
