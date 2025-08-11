@@ -8,6 +8,12 @@ header{
 	text-align: center;
 }
 
+header > p{
+	margin: auto;
+	padding: 2rem;
+	text-align: center;
+}
+
 header > h1{
 	margin: auto;
 	padding: 2rem;
